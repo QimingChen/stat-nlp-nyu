@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: Slav
+   first: Qiming  
+   last: Chen  
+email: qc449@nyu.edu 
+leaderboard: Qiming
